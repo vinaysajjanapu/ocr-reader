@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_42109f17cfd5ef04c41eae05d14c586440ff60fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_085b0cea580b4a6c8ca293a7fc3ab6941b2cdd6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b495888b5db11b2b1281691899af3530bb29fd92.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b4f6b695082298cd109ab262f1501a16fdae9568.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_c23f7401e1d82d085e47490593169eaf898b5087.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_9ed64552e1a891a50824ecfe1c2c341c5009d630.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ed897346aa831e911906a6bb1410ae15f2ff85d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_94ff59a732df004d16d0f4fdeef4ed83ca2324e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_737663b35368b2c6d081ebe14d44da2d364979ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_34bf2c22e96bcf9d35d7a99f3d2a9547b760b1d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6fbb521b627dde2d0b76fe595e61878985488f71.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_9bad64abe1e84fcd6d3614c6a67ee65ac7156d34.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_f4883a21dc6d7d8e698b9de5a69f7a3071b83bd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_e509808b664200a96fa7cd09c0c7709ad061ddd9.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_8952eafa79c22b6d9b10d92a67f35a8a2d5963dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_fe2f945d154dc7e87e70b5e0938b7dc23f6fb273.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_76400d5233044d11ce92b76d4ac413f28ac5d760.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c08e56f1d640b8715c35207622764755ce376080.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_09c5f962f239de75de155065c2618ab9d62a19d1.jar" />
+    </item>
+    <item
+        jar="F:\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_0b397fda9ef8986b29d328d7ab64a2b4eea1f75c.jar" />
+    </item>
+    <item
+        jar="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\salimatti\Downloads\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_b7e4dd151cf62488f8020bd42328114820ff3a8a.jar" />
+    </item>
+
+</items>
